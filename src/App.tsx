@@ -53,14 +53,14 @@ import {
 } from 'lucide-react';
 
 const ASSETS_IMAGES = {
-  hero_man_tablet: '/src/assets/images/hero_man_tablet_1779995294194.png',
-  hero_woman_phone: '/src/assets/images/hero_woman_phone_1779995309843.png',
-  about_team: '/src/assets/images/about_team_1779995328220.png',
-  faq_man: '/src/assets/images/faq_man_1779995352650.png',
-  about_woman_tablet: '/src/assets/images/about_woman_tablet_1779995376101.png',
-  about_cash: '/src/assets/images/about_cash_1779995392829.png',
-  about_wallet: '/src/assets/images/about_wallet_177999514284.png', // Fallbacks are automatically safe
-  about_coins: '/src/assets/images/about_coins_1779995433183.png',
+  hero_man_tablet: '/images/hero_man_tablet_1779995294194.png',
+  hero_woman_phone: '/images/hero_woman_phone_1779995309843.png',
+  about_team: '/images/about_team_1779995328220.png',
+  faq_man: '/images/faq_man_1779995352650.png',
+  about_woman_tablet: '/images/about_woman_tablet_1779995376101.png',
+  about_cash: '/images/about_cash_1779995392829.png',
+  about_wallet: '/images/about_wallet_177999514284.png', // Fallbacks are automatically safe
+  about_coins: '/images/about_coins_1779995433183.png',
 };
 
 export default function App() {
